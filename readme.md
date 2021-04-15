@@ -7,3 +7,5 @@ Date: 4/2/2021
 - Learning to Reset and Revert to Old Commits
 - Deploying a Static Website
 - Test
+- New Test
+- Old Test
